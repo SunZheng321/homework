@@ -1,3 +1,3 @@
 # homework
 homework in java training
-这里是java训练营中的homework源代码和程序运行结果截图，每周的homework将分别打包到对应的文件夹中
+这里是孙峥峥在java训练营中的homework源代码和程序运行结果截图，每周的homework将分别打包到对应的文件夹中
